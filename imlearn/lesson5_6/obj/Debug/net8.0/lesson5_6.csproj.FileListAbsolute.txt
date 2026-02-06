@@ -1,0 +1,15 @@
+C:\dev\dotnet\imlearn\lesson5_6\bin\Debug\net8.0\lesson5_6.exe
+C:\dev\dotnet\imlearn\lesson5_6\bin\Debug\net8.0\lesson5_6.deps.json
+C:\dev\dotnet\imlearn\lesson5_6\bin\Debug\net8.0\lesson5_6.runtimeconfig.json
+C:\dev\dotnet\imlearn\lesson5_6\bin\Debug\net8.0\lesson5_6.dll
+C:\dev\dotnet\imlearn\lesson5_6\bin\Debug\net8.0\lesson5_6.pdb
+C:\dev\dotnet\imlearn\lesson5_6\obj\Debug\net8.0\lesson5_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\imlearn\lesson5_6\obj\Debug\net8.0\lesson5_6.AssemblyInfoInputs.cache
+C:\dev\dotnet\imlearn\lesson5_6\obj\Debug\net8.0\lesson5_6.AssemblyInfo.cs
+C:\dev\dotnet\imlearn\lesson5_6\obj\Debug\net8.0\lesson5_6.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\imlearn\lesson5_6\obj\Debug\net8.0\lesson5_6.sourcelink.json
+C:\dev\dotnet\imlearn\lesson5_6\obj\Debug\net8.0\lesson5_6.dll
+C:\dev\dotnet\imlearn\lesson5_6\obj\Debug\net8.0\refint\lesson5_6.dll
+C:\dev\dotnet\imlearn\lesson5_6\obj\Debug\net8.0\lesson5_6.pdb
+C:\dev\dotnet\imlearn\lesson5_6\obj\Debug\net8.0\lesson5_6.genruntimeconfig.cache
+C:\dev\dotnet\imlearn\lesson5_6\obj\Debug\net8.0\ref\lesson5_6.dll
