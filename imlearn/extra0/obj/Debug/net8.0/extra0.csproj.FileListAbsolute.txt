@@ -1,0 +1,15 @@
+C:\dev\dotnet\imlearn\extra0\obj\Debug\net8.0\extra0.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\imlearn\extra0\obj\Debug\net8.0\extra0.AssemblyInfoInputs.cache
+C:\dev\dotnet\imlearn\extra0\obj\Debug\net8.0\extra0.AssemblyInfo.cs
+C:\dev\dotnet\imlearn\extra0\obj\Debug\net8.0\extra0.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\imlearn\extra0\obj\Debug\net8.0\extra0.sourcelink.json
+C:\dev\dotnet\imlearn\extra0\bin\Debug\net8.0\extra0.exe
+C:\dev\dotnet\imlearn\extra0\bin\Debug\net8.0\extra0.deps.json
+C:\dev\dotnet\imlearn\extra0\bin\Debug\net8.0\extra0.runtimeconfig.json
+C:\dev\dotnet\imlearn\extra0\bin\Debug\net8.0\extra0.dll
+C:\dev\dotnet\imlearn\extra0\bin\Debug\net8.0\extra0.pdb
+C:\dev\dotnet\imlearn\extra0\obj\Debug\net8.0\extra0.dll
+C:\dev\dotnet\imlearn\extra0\obj\Debug\net8.0\refint\extra0.dll
+C:\dev\dotnet\imlearn\extra0\obj\Debug\net8.0\extra0.pdb
+C:\dev\dotnet\imlearn\extra0\obj\Debug\net8.0\extra0.genruntimeconfig.cache
+C:\dev\dotnet\imlearn\extra0\obj\Debug\net8.0\ref\extra0.dll
